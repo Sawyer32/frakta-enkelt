@@ -1,0 +1,7 @@
+{
+  "name": "frakta-enkelt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
